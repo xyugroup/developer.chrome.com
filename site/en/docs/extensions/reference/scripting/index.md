@@ -205,7 +205,8 @@ chrome.scripting
   })
   .then(injectionResults => {
     for (const frameResult of injectionResults) {
-      console.log('Frame Title: ' + frameResult.result);
+      const {frameId, result} = frameResult;
+      console.log(`Frame ${frameId} result:`, result);
     }
   });
 ```
@@ -237,7 +238,8 @@ chrome.scripting
   })
   .then(injectionResults => {
     for (const frameResult of injectionResults) {
-      console.log('Iframe Title: ' + frameResult.result);
+      const {frameId, result} = frameResult;
+      console.log(`Frame ${frameId} result:`, result);
     }
   });
 ```
