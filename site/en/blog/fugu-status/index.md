@@ -3,7 +3,7 @@ layout: 'layouts/blog-post.njk'
 title: New capabilities status
 subhead: Web apps should be able to do anything iOS, Android, or desktop apps can. The members of the cross-company capabilities project want to make it possible for you to build and deliver apps on the open web that have never been possible before.
 date: 2018-11-12
-updated: 2022-04-22
+updated: 2022-04-28
 hero: image/8WbTDNrhLsU0El80frMBGE4eMCD3/8FZcBmFowbDKWxpkOytx.jpg
 alt: Blowfish swarm swimming in the ocean.
 tags:
@@ -25,7 +25,7 @@ This work, among many other examples, allowed
 [Betty Crocker to increase purchase intent indicators by 300%](https://web.dev/betty-crocker/).
 
 {% Aside %}
-Be sure to try out some of the apps the community has built with Fugu APIs
+Be sure to try some of the apps the community has built with Fugu APIs
 by heading over to our [Project Fugu API Showcase](/blog/fugu-showcase/) and exploring it.
 {% endAside %}
 
@@ -44,9 +44,9 @@ latest version of Chrome, and in many cases other Chromium based browsers.
   All already shipped APIs
 </a>
 
-## Capabilities available as an origin trial {: #origin-trial }
+## Capabilities available in an origin trial {: #origin-trial }
 
-These APIs are available as an [origin trial][ot-dashboard] in Chrome. Origin
+These APIs are available in [origin trials][ot-dashboard] in Chrome. Origin
 trials provide an opportunity for Chrome to validate experimental features and
 APIs, and make it possible for you to provide feedback on their usability
 and effectiveness in broader deployment.
@@ -59,7 +59,7 @@ change based on your feedback. There's more info on origin trials in the [Origin
 Trials Guide for Web Developers][ot-guide].
 
 <a class="material-button button-filled button-round display-inline-flex color-bg bg-primary gap-top-400" href="https://fugu-tracker.web.app/#origin-trial">
-  All APIs currently in origin trial
+  All APIs currently in an origin trial
 </a>
 
 ## Capabilities available behind a flag {: #flag }

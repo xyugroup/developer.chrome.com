@@ -2,12 +2,12 @@
 layout: 'layouts/blog-post.njk'
 title: Project Fugu API showcase
 subhead: >
-  The Project Fugu API Showcase is a collection of apps that make use of APIs that were conceived
+  The Project Fugu API Showcase is a collection of apps that use APIs that were conceived
   in the context of Project Fugu.
 authors:
   - thomassteiner
 date: 2022-04-25
-# updated: 2022-04-21
+updated: 2022-04-28
 hero: image/8WbTDNrhLsU0El80frMBGE4eMCD3/8FZcBmFowbDKWxpkOytx.jpg
 alt: Blowfish swarm swimming in the ocean.
 tags:
@@ -20,12 +20,12 @@ enable amazing web applications like [Photoshop](https://web.dev/ps-on-the-web/)
 the underlying operating system platforms to the web platform, while maintaining user security,
 privacy, trust, and other core tenets of the web.
 
-But what are examples of some of the apps that make use of these capabilities? The Project Fugu API
-Showcase embedded below is sourced by community submissions and contains a filterable list of apps
-that make use of one or more APIs that were developed in the context of the project. You can propose
-missing apps by submitting them via an
+But what are examples of some of the apps that use these capabilities? The Project Fugu API
+Showcase, embedded below, is sourced by community submissions and contains a filterable list of apps
+that use one or more APIs that were developed in the context of the project. You can propose
+additional apps by submitting them via an
 [anonymous form](https://docs.google.com/forms/d/e/1FAIpQLScNd1rClbmFWh6FcMmjUNrwg9RLz8Jk4BkHz_-EOpmkVd_-9g/viewform).
-Submissions are reviewed on a regular basis and the showcase will be updated accordingly.
+Submissions are reviewed regularly and the showcase will be updated accordingly.
 
 You can launch each app by clicking the app's name, the app's preview image, or the **Launch app**
 link. For many apps, you can also see the source code by clicking **Source code**. On supporting
