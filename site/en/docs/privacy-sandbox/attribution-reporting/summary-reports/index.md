@@ -6,9 +6,9 @@ subhead: >
   individual data. Formerly known as aggregate reports.
 description: >
   Measure ad conversions aggregated across users, without revealing
-  individual data. Formerly known as aggregate reports.
+  individual data.
 date: 2022-02-16
-updated: 2022-03-16
+updated: 2022-05-17
 authors:
   - alexandrawhite
 ---

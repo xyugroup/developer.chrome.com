@@ -2,11 +2,11 @@
 layout: 'layouts/doc-post.njk'
 title: 'Trust Tokens'
 subhead: >
-  An API to convey a limited amount of information from one browsing context to another (for example, across sites) to help combat fraud, without passive tracking.
+  An API to convey a limited amount of information from one browsing context to another (for example, across sites) to combat fraud, without passive tracking.
 description: >
-  An API to convey a limited amount of information from one browsing context to another (for example, across sites) to help combat fraud, without passive tracking.
+  Convey a limited amount of information from one browsing context to another to combat fraud, without passive tracking.
 date: 2021-05-18
-updated: 2022-03-31
+updated: 2022-05-17
 authors:
   - samdutton
 ---

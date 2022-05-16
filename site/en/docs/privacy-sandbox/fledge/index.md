@@ -2,11 +2,11 @@
 layout: 'layouts/doc-post.njk'
 title: 'FLEDGE API'
 subhead: >
-  FLEDGE is a Privacy Sandbox proposal to serve remarketing and custom audience use cases, designed so it cannot be used by third parties to track user browsing behavior across sites.
+  A Privacy Sandbox proposal to serve remarketing and custom audience use cases, designed so it cannot be used by third parties to track user browsing behavior across sites.
 description: >
-  FLEDGE is a Privacy Sandbox proposal to serve remarketing and custom audience use cases, designed so it cannot be used by third parties to track user browsing behavior across sites. The API enables on-device auctions by the browser, to choose relevant ads from websites the user has previously visited.
+  On-device ad auctions performed in the browser. Choose relevant ads from previously visited websites, without third-party tracking across sites. 
 date: 2022-01-27
-updated: 2022-05-03
+updated: 2022-05-17
 authors:
   - samdutton
 ---

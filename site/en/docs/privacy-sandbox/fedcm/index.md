@@ -2,10 +2,10 @@
 layout: 'layouts/doc-post.njk'
 title: 'Federated Credential Management API'
 subhead: >
-  A web API for privacy-preserving identity federation.
+  A web API for privacy-preserving federated logins.
 description: >
-  A web platform API that allows users to login to websites with their federated accounts in a manner compatible with improvements to browser privacy.
-date: 2022-04-25
+  A web API for privacy-preserving federated logins.
+date: 2022-05-17
 authors:
   - agektmr
 ---
